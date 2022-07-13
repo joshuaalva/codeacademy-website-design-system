@@ -16,6 +16,7 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    margin-left: 5%;
 }
 
 .color-panel {
@@ -27,6 +28,7 @@ h2 {
 
 .outside-border {
     border: 1px solid black;
+    margin-bottom: 20px;
 }
 
 .skyy {
@@ -43,3 +45,43 @@ h2 {
   background-color: #a62317;
   color: white;
 }
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-left: 3%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
