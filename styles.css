@@ -1,0 +1,41 @@
+h1 {
+    display: block; 
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.color-container {
+    display: inline;
+}
+
+<!-- this is the border to the actual boxes -->
+.color-panel {
+    
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.skyy {
+    background-color: #A0C9D9;
+    color: white;
+}
+
+.adobo {
+    background-color: #8C5946;
+    color: white;
+}
+
+.clayy {
+    background-color: #A62317;
+    color: white;
+}
